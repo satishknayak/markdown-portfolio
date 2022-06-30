@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Hello*
+_I am Satish Kumar Nayak_
+
+**I am a UI developer**
+
+_I am proficient in **Javascript, jQuery, HTML, CSS and Bootstrap**_
