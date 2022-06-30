@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[GitHub - Using Git](docs.github.com/en/get-started/using-git/about-git)
