@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Wafers
+* Chicken
+  * Momos
+  * Biryani
+  * Tandoori
+* Desserts
+  * Custard
